@@ -1,3 +1,8 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
+
 max_A = 30
 
 # a simple parser for python. use get_number() and get_word() to read
