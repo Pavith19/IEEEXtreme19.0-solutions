@@ -4,7 +4,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/IEEEXtreme19.0-solutions.svg?cache=remove)
 
 <p align="center">
-  <img src="Assets/ieeextreme_logo_general.png" height=280 width=581 alt="IEEEXtreme 19.0 banner">
+  <img src="Assets/images.png" height=280 width=581 alt="IEEEXtreme 19.0 banner">
 </p>
 
 # IEEEXtreme 19.0 Solutions
