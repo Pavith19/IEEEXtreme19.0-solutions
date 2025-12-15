@@ -2,6 +2,12 @@
 # Task should have 512MB limit instead of 256MB.
 
 # a simple parser for python. use get_number() and get_word() to read
+
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
+
 def parser():
     while 1:
         data = list(input().split(' '))
