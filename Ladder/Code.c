@@ -1,3 +1,9 @@
+/*
+ * Author: Pavith Bambaravanage
+ * GitHub: https://github.com/Pavith19
+ */
+
+
 #include <bits/stdc++.h>
 using namespace std;
 using u64 = uint64_t;
@@ -12,8 +18,6 @@ inline i64 step_r_signed(i64 r) {
     r = (r >> 1) ^ (bit ? CONST_I64 : 0LL);
     return r;
 }
-
-// Author: Morteza Farrokhnejad, Ali Farrokhnejad
 
 struct Mat64 {
     array<u64,64> row;
@@ -491,3 +495,8 @@ int main() {
     } 
     return 0;
 }
+
+/*
+ * Author: Pavith Bambaravanage
+ * GitHub: https://github.com/Pavith19
+ */
