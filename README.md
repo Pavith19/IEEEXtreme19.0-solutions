@@ -50,8 +50,6 @@ Contributions are welcome to enhance this collection of IEEEXtreme 19.0 solution
 - **Add New Solutions**: Submit solutions for problems not yet covered
 - **Improve Existing Solutions**: Optimize or clarify current solutions
 - **Multiple Language Implementations**: Add solutions in C++, Java, or other languages
-- **Add Problem Statements**: Include PDF problem descriptions where available
-- **Improve Documentation**: Enhance code comments, explanations, or README files
 
 ## License
 
