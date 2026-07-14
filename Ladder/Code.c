@@ -1,7 +1,7 @@
-"""
-Author: Pavith Bambaravanage
-URL: https://github.com/Pavith19
-"""
+/*
+ * Author: Pavith Bambaravanage
+ * GitHub: https://github.com/Pavith19
+ */
 
 
 #include <bits/stdc++.h>
@@ -496,7 +496,7 @@ int main() {
     return 0;
 }
 
-"""
-Author: Pavith Bambaravanage
-URL: https://github.com/Pavith19
-"""
+/*
+ * Author: Pavith Bambaravanage
+ * GitHub: https://github.com/Pavith19
+ */
