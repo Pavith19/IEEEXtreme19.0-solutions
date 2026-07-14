@@ -23,6 +23,7 @@ Welcome to the IEEEXtreme 19.0 Solutions Repository! This repository contains my
 | 6 | The Twin Occurrence Quest | [Problem](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/The%20Twin%20Occurrence%20Quest) | [Solution](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/The%20Twin%20Occurrence%20Quest) |
 | 7 | Visit Egypt | [Problem](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Visit%20Egypt) | [Solution](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Visit%20Egypt) |
 | 8 | White Knights and Black Warriors | [Problem](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/White%20knights%20and%20Black%20warriors) | [Solution](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/White%20knights%20and%20Black%20warriors) |
+| 9 | Ladder | [Problem](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Ladder) | [Solution](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Ladder) |
 
 ## Repository Structure
 
