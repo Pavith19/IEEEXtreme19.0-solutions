@@ -3,8 +3,11 @@ using namespace std;
 
 const int MOD = 1000000007;
 
-// Author: Morteza Farrokhnejad, Ali Farrokhnejad
-// Denominations in units of 25 to simplify processing
+/*
+ * Author: Pavith Bambaravanage
+ * GitHub: https://github.com/Pavith19
+ */
+
 const int denominations[] = {1, 2, 4, 20, 40, 80, 200, 400, 800};
 const int DENOM_COUNT = 9;
 
@@ -63,3 +66,8 @@ int main() {
 
     return 0;
 }
+
+/*
+ * Author: Pavith Bambaravanage
+ * GitHub: https://github.com/Pavith19
+ */
