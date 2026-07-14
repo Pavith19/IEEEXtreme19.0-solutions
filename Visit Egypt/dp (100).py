@@ -1,5 +1,10 @@
 import sys
 
+"""
+Author: Pavith Bambaravanage
+GitHub: https://github.com/Pavith19
+"""
+
 
 input = lambda: sys.stdin.readline().rstrip()
 
