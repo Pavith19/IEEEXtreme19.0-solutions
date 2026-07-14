@@ -25,9 +25,9 @@ Welcome to the IEEEXtreme 19.0 Solutions Repository! This repository contains my
 ## Repository Structure
 
 Each problem folder typically contains:
-- Solution files with different algorithmic approaches
-- Multiple implementations (e.g., prefix-sum, segment tree, DFS, DSU)
-- Score indicators in filenames showing test case performance
+- Problem description
+- Python and C++ solution implementations
+- Different algorithmic approaches
 
 ## Implementation Highlights
 
