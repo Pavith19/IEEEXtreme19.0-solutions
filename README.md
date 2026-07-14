@@ -13,14 +13,16 @@ Welcome to the IEEEXtreme 19.0 Solutions Repository! This repository contains my
 
 ## Problems Solved
 
-1. [Become as One](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Become%20as%20One)
-2. [Raju's Matrix Runs](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Raju's%20Matrix%20Runs)
-3. [Secure Elliptic Curve Point Addition](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Secure%20Elliptic%20Curve%20Point%20Addition)
-4. [Shailesh's Triplet](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Shailesh's%20Triplet)
-5. [Stable Power Network](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Stable%20Power%20Network)
-6. [The Twin Occurrence Quest](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/The%20Twin%20Occurrence%20Quest)
-7. [Visit Egypt](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Visit%20Egypt)
-8. [White Knights and Black Warriors](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/White%20knights%20and%20Black%20warriors)
+| No. | Problem | Question | Solution |
+|---|---|---|---|
+| 1 | Become as One | [Problem](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Become%20as%20One) | [Solution](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Become%20as%20One) |
+| 2 | Raju's Matrix Runs | [Problem](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Raju's%20Matrix%20Runs) | [Solution](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Raju's%20Matrix%20Runs) |
+| 3 | Secure Elliptic Curve Point Addition | [Problem](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Secure%20Elliptic%20Curve%20Point%20Addition) | [Solution](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Secure%20Elliptic%20Curve%20Point%20Addition) |
+| 4 | Shailesh's Triplet | [Problem](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Shailesh's%20Triplet) | [Solution](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Shailesh's%20Triplet) |
+| 5 | Stable Power Network | [Problem](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Stable%20Power%20Network) | [Solution](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Stable%20Power%20Network) |
+| 6 | The Twin Occurrence Quest | [Problem](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/The%20Twin%20Occurrence%20Quest) | [Solution](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/The%20Twin%20Occurrence%20Quest) |
+| 7 | Visit Egypt | [Problem](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Visit%20Egypt) | [Solution](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/Visit%20Egypt) |
+| 8 | White Knights and Black Warriors | [Problem](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/White%20knights%20and%20Black%20warriors) | [Solution](https://github.com/Pavith19/IEEEXtreme19.0-solutions/tree/main/White%20knights%20and%20Black%20warriors) |
 
 ## Repository Structure
 
