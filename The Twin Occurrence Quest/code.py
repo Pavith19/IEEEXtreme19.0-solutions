@@ -4,7 +4,11 @@ q = int(nq[1])
 
 nums = list(map(int, input().split()))
 
-# Authors: Morteza Farrokhnejad, Ali Farrokhnejad
+"""
+Author: Pavith Bambaravanage
+GitHub: https://github.com/Pavith19
+"""
+
 i = 0
 search = []
 for i in range(q):
