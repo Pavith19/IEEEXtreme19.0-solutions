@@ -4,11 +4,10 @@
 #include <math.h>
 #define MOD 1000000007LL
 
-// Authors: Morteza Farrokhnejad, Ali Farrokhnejad
-// Pattern: https://oeis.org/A001523
-// NTT for optimization: https://codeforces.com/blog/entry/43499
-// Cannot use given mod number for NTT directly, hence using Garner approach
-// https://en.wikipedia.org/wiki/Number-theoretic_transform
+/*
+ * Author: Pavith Bambaravanage
+ * GitHub: https://github.com/Pavith19
+ */
 
 
 static const int64_t M0 = 167772161LL;
@@ -316,3 +315,8 @@ int main() {
     free(pnums); free(psigns); free(pents); free(c); free(res); free(d); free(res0); free(res1); free(res2);
     return 0;
 }
+
+/*
+ * Author: Pavith Bambaravanage
+ * GitHub: https://github.com/Pavith19
+ */
